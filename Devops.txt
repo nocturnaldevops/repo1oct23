@@ -7,3 +7,6 @@ terraform
 Prometheus 
 Grafana
 Nagios
+Tomcat
+Sonarqube
+Nexus
