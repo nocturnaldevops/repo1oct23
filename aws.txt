@@ -1,0 +1,7 @@
+Ec2
+s3
+cloud formation
+Route53
+Lambda
+ECR
+ECS
